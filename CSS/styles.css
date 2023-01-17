@@ -1,0 +1,51 @@
+/**************TAG SELECTORS************/
+
+    body {background-color:#F3EFE0;
+        font-family: 'Caveat Brush', cursive;
+        font-size: 1em;}
+
+    h1{color:#222222;
+        font-size: 2rem;}
+
+    p{color: #434242;}
+
+    a {color: #22A39F;}
+
+    image{background-color: #F3EFE0;}
+
+    hr{background-color:#ffffff;
+    border-style: none;
+    height: 4px;
+    width: 80%;}
+
+    
+
+
+/***********************CLASS SELECTORS************************************/ 
+.Tita{background-color: #F3EFE0;
+        position: absolute;
+        left: 60px;
+        top: 40px;}
+        
+.top{position: absolute;
+    top: 80px;
+    left: 400px;
+        }
+
+
+.subtitle{font-size: 2rem;}
+
+.container{
+    position: relative;
+    width: 1500px;
+    height: 450px;}
+
+.sections{font-size: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+            text-align: center;
+            padding: 10px;;}
+.menue{text-align: center;}
+      
+/**************************ID SELECTORS************************************/
+#heading{color: #222222;}
+#heading{font-size: 80px;} 
